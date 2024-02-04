@@ -1,0 +1,11 @@
+# Fichiers temporaires
+.DS_Store
+
+# Dossiers
+node_modules/
+
+# Fichiers d'environnement
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
